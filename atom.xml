@@ -4,11 +4,11 @@
   <title><![CDATA[A Glimmer of Whimsy]]></title>
   <link href="http://ericanaughton.github.io/blog/atom.xml" rel="self"/>
   <link href="http://ericanaughton.github.io/blog/"/>
-  <updated>2015-06-02T15:28:51-05:00</updated>
+  <updated>2015-06-03T16:48:10-05:00</updated>
   <id>http://ericanaughton.github.io/blog/</id>
   <author>
     <name><![CDATA[Erica Naughton]]></name>
-    
+    <email><![CDATA[erica.naughton@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
