@@ -4,7 +4,7 @@
   <title><![CDATA[A Glimmer of Whimsy]]></title>
   <link href="http://ericanaughton.github.io/blog/atom.xml" rel="self"/>
   <link href="http://ericanaughton.github.io/blog/"/>
-  <updated>2015-06-04T09:41:14-05:00</updated>
+  <updated>2015-06-04T09:44:26-05:00</updated>
   <id>http://ericanaughton.github.io/blog/</id>
   <author>
     <name><![CDATA[Erica Naughton]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://ericanaughton.github.io/blog/blog/2015/05/28/awesome-first-post/"/>
+    <updated>2015-05-28T20:05:39-05:00</updated>
+    <id>http://ericanaughton.github.io/blog/blog/2015/05/28/awesome-first-post</id>
+    <content type="html"><![CDATA[This is my first blog post.
+]]></content>
+  </entry>
   
 </feed>
