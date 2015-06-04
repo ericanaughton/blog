@@ -4,7 +4,7 @@
   <title><![CDATA[A Glimmer of Whimsy]]></title>
   <link href="http://ericanaughton.github.io/blog/atom.xml" rel="self"/>
   <link href="http://ericanaughton.github.io/blog/"/>
-  <updated>2015-06-04T09:48:02-05:00</updated>
+  <updated>2015-06-04T09:50:56-05:00</updated>
   <id>http://ericanaughton.github.io/blog/</id>
   <author>
     <name><![CDATA[Erica Naughton]]></name>
@@ -19,6 +19,19 @@
     <updated>2015-05-28T20:05:39-05:00</updated>
     <id>http://ericanaughton.github.io/blog/blog/2015/05/28/awesome-first-post</id>
     <content type="html"><![CDATA[This week I am interviewing for summer internships! I'm meeting with Wellbe, Zendesk and Bendyworks. All three are very different companies, and I'm so excited to find out more! I'll keep you posted!
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wrapping Up]]></title>
+    <link href="http://ericanaughton.github.io/blog/blog/2015/05/28/wrapping-up/"/>
+    <updated>2015-05-28T13:55:39-05:00</updated>
+    <id>http://ericanaughton.github.io/blog/blog/2015/05/28/wrapping-up</id>
+    <content type="html"><![CDATA[<p>So, I&rsquo;ve reached a place in my school work where I&rsquo;m quite ahead.  I have completed all my assignments for Javascript so far, though more assignments will be written soon.  Now I&rsquo;m learning a bit of jQuery, which has been a nice change up.  I am also freshening up on my HTML and CSS skills so I can finish up my personal website.  It&rsquo;s been quite a few months since I&rsquo;ve touched it, and I&rsquo;m pretty rusty!  But I&rsquo;ve created a new mood board and wireframe, so at least I&rsquo;ve got a new idea I&rsquo;m working with.</p>
+
+<p>I&rsquo;m glad I have this time to get reacquainted with these languages - before I start interviewing for an internship at a local tech company!  We will be having a personalized &ldquo;job fair&rdquo; in a couple weeks, which will allow us to meet representatives from different companies for which we will get to interview.  I&rsquo;m super excited for this next chapter of working for a real consulting company.  This will be one step closer to doing what I truly aim for - graphic design!  I&rsquo;m so eager to create new things and learn how to do it well from professionals.</p>
+
+<p>Although I&rsquo;m thrilled for this new experience, I&rsquo;m also realizing how incredibly short of time we have to prepare portfolios!  Better get back to work!</p>
 ]]></content>
   </entry>
   
